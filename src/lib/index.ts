@@ -1,0 +1,17 @@
+export { default as Switch } from './Switch.vue';
+export { default as Button } from './Button.vue';
+export { default as Tabs } from './Tabs.vue';
+export { default as Tab } from './Tab.vue';
+export { default as Dialog } from './Dialog.vue';
+export { default as Layout } from '../layout/layout.vue';
+export { default as Sider} from '../layout/sider.vue';
+export { default as Header} from '../layout/header.vue';
+export { default as Footer}from '../layout/footer.vue';
+export { default as Content} from '../layout/content.vue';
+export { default as gridcol}from '../grid/col.vue';
+export { default as gridrow} from '../grid/row.vue';
+export { default as collapse}from '../collapse/collapse.vue';
+export { default as collapseItem} from '../collapse/collapseItem.vue';
+export { default as guluinput} from '../input.vue';
+export { default as popover} from '../popover.vue';
+export { openDialog as openDialog } from './openDialog';

@@ -1,0 +1,18 @@
+
+[4m[1m[32mopts[39m@[32m2.0.2[39m[22m[24m | [32mBSD-2-Clause[39m | deps: [32mnone[39m | versions: [33m10[39m
+Command line argument parser with automatic help text generation.
+[36mhttp://khtdr.com/opts[39m
+
+dist
+.tarball: [36mhttps://registry.npmmirror.com/opts/-/opts-2.0.2.tgz[39m
+.shasum: [33ma17e189fbbfee171da559edd8a42423bc5993ce1[39m
+.integrity: [33msha512-k41FwbcLnlgnFh69f4qdUfvDQ+5vaSDnVPFI/y5XuhKRq97EnVVneO9F1ESVCdiVu4fCS2L8usX3mU331hB7pg==[39m
+
+maintainers:
+- [33mnpm:mazzarelli[39m <[36mmazzarelli@gmail.com[39m>
+- [33mmazzarelli[39m <[36mmazzarelli@gmail.com[39m>
+
+dist-tags:
+[1m[32mlatest[39m[22m: 2.0.2
+
+published [33mover a year ago[39m by [33mmazzarelli[39m <[36mohkay@khtdr.com[39m>
